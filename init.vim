@@ -1,0 +1,13 @@
+source $HOME/.config/nvim/plugs/plugins.vim
+source $HOME/.config/nvim/themes/onedark.vim
+source $HOME/.config/nvim/general/settings.vim
+source $HOME/.config/nvim/plugs-config/coc.vim
+source $HOME/.config/nvim/keys/mappings.vim
+source $HOME/.config/nvim/themes/airline.vim
+source $HOME/.config/nvim/plugs-config/rnvimr.vim
+source $HOME/.config/nvim/plugs-config/start-screen.vim
+source $HOME/.config/nvim/plugs-config/signify.vim
+source $HOME/.config/nvim/plugs-config/ultisnips.vim
+source $HOME/.config/nvim/plugs-config/vimtex.vim
+source $HOME/.config/nvim/plugs-config/vim-latex-live-preview.vim
+source $HOME/.config/nvim/plugs-config/vim-indent-guides.vim
